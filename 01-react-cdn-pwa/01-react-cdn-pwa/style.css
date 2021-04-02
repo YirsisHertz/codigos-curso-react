@@ -1,0 +1,17 @@
+body {
+  background-color: #333;
+  color: snow;
+  text-align: center;
+}
+
+.positivo {
+  color: lime;
+}
+
+.negativo {
+  color: tomato;
+}
+
+button {
+  margin: 0 3px;
+}
